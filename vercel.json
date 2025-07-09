@@ -12,8 +12,5 @@
       "dest": "index.js",
       "methods": ["POST"]
     }
-  ],
-  "engines": {
-    "node": "20.x"
-  }
+  ]
 }
